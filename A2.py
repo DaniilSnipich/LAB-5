@@ -7,4 +7,6 @@ def stroki (items):
     for item in items:
         print(item)
 
+stroki(sen)
+print(f'Предложений в тексте: {len(sen)}')
 
